@@ -889,7 +889,7 @@ This is **live mainnet**. QTC has value.
 | Telemetry | https://telemetry.quantus.cat/ |
 | Telegram | https://t.me/quantusnetwork |
 | Quanpool (community pool) | https://quanpool.com/ |
-| Quanpool Discord | https://discord.gg/vPkuc8eu42 |
+| Quanpool Discord | https://discord.gg/N8ukt378qJ |
 | Research forum | https://research.quantus.com |
 | Bug reports | https://github.com/Quantus-Network/chain/issues |
 
